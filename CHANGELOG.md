@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.15.0
+
+- #632 - Update money and monetize gems to latest versions
+- #631 - Add Russian translation for errors (#631)
+
 ## 1.14.1
 
 - Fix invalid_currency error definition
